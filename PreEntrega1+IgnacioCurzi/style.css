@@ -1,0 +1,41 @@
+:root {
+    --bg-color: #111111;
+    --second-bg-color: #151515;
+    --text-color: white;
+    --main-color: #ff0404bd;
+}
+
+
+html {
+    font-size: 0.8rem;
+    color-scheme: dark;
+}
+
+body {
+    padding-top: 10px;
+    width: 90%;
+    margin: 0 auto;
+}
+h1 {
+    padding-left: 850px;
+    color: chartreuse;
+}
+
+p {
+    color:yellowgreen
+}
+
+li {
+    color: coral;
+}
+.ocultar {
+    display: none;
+}
+
+.bolder-600 {
+    font-weight: 600;
+}
+
+.imagenes {
+    height: 10px;
+}
